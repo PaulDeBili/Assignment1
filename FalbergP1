@@ -1,0 +1,12 @@
+#include<stdio.h>
+
+int main(void) {
+    printf("My name is Jeff Falberg\nMy computer system is Windows\nThe IDE that I'm using is CodeBlocks");
+    return 0;
+}
+
+/*Output
+My name is Jeff Falberg
+My computer system is Windows
+The IDE that I'm using is CodeBlocks
+ */
